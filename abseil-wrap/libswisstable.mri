@@ -1,0 +1,22 @@
+create libswisstable.a
+addlib /home/zyedidia/programming/swisstable/libcwrappers.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/base/libabsl_base.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/hash/libabsl_hash.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/synchronization/libabsl_synchronization.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/time/libabsl_time.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/time/libabsl_time_zone.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/numeric/libabsl_int128.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/hash/libabsl_city.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/debugging/libabsl_symbolize.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/debugging/libabsl_stacktrace.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/debugging/libabsl_demangle_internal.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/debugging/libabsl_debugging_internal.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/container/libabsl_hashtablez_sampler.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/base/libabsl_spinlock_wait.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/base/libabsl_malloc_internal.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/synchronization/libabsl_graphcycles_internal.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/base/libabsl_raw_logging_internal.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/base/libabsl_exponential_biased.a
+addlib /home/zyedidia/programming/swisstable/abseil-cpp/absl/container/libabsl_raw_hash_set.a
+save
+end

@@ -1,0 +1,69 @@
+best entropy: 17.9177
+i: 0,
+position chosen: 31
+time taken: 18.0397 in seconds
+current entropy: 4.55747
+i: 1,
+position chosen: 13
+time taken: 24.0724 in seconds
+current entropy: 8.3042
+i: 2,
+position chosen: 40
+time taken: 28.1036 in seconds
+current entropy: 10.7406
+i: 3,
+position chosen: 19
+time taken: 44.7066 in seconds
+current entropy: 12.5046
+i: 4,
+position chosen: 59
+time taken: 82.1767 in seconds
+current entropy: 14.2282
+i: 5,
+position chosen: 11
+time taken: 128.868 in seconds
+current entropy: 15.0476
+i: 6,
+position chosen: 42
+time taken: 171.031 in seconds
+current entropy: 15.5361
+i: 7,
+position chosen: 28
+time taken: 212.156 in seconds
+current entropy: 16.1159
+i: 8,
+position chosen: 70
+time taken: 181.053 in seconds
+current entropy: 16.6929
+i: 9,
+position chosen: 9
+time taken: 183.453 in seconds
+current entropy: 16.8698
+i: 10,
+position chosen: 37
+time taken: 185.892 in seconds
+current entropy: 17.0631
+i: 11,
+position chosen: 50
+time taken: 188.438 in seconds
+current entropy: 17.2682
+i: 12,
+position chosen: 24
+time taken: 196.696 in seconds
+current entropy: 17.454
+i: 13,
+position chosen: 109
+time taken: 200.305 in seconds
+current entropy: 17.5264
+i: 14,
+position chosen: 49
+time taken: 199.994 in seconds
+current entropy: 17.5747
+i: 15,
+position chosen: 30
+time taken: 292.27 in seconds
+current entropy: 17.6162
+positions: 
+31, 13, 40, 19, 59, 11, 42, 28, 70, 9, 37, 50, 24, 109, 49, 30, 
+entropy: 17.6162
+
